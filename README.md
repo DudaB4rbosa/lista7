@@ -1,6 +1,6 @@
 ###Lsta7
 
--__Projeto__: Lista 7 desenvolvida na linguagem java 
+- __Projeto__: Lista 7 desenvolvida na linguagem java 
 
 ~~~
 1. Crie um programa que peça o nome, CPF e idade para um usuário.
@@ -12,8 +12,8 @@ inválida.
 Imprima todos os dados na tela.
 Crie testes unitários para a solução.
 Versione o seu programa no github e coloque aqui o link para o repositório:
-~~~~
-~~~~
+~~~
+~~~
 2. Escreva um algoritmo que leia dois números informados pelo usuário a partir do 
 teclado e que apresente o resultado da média aritmética dos dois números 
 informados. 
